@@ -1,4 +1,4 @@
-#todo-app-ts
+# todo-app-ts
 ## technologies
 * type-script
 * react-hook-form
