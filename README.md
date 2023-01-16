@@ -1,6 +1,6 @@
 # todo-app-ts
 ## technologies
-* type-script
+* TypeScript
 * react-hook-form
 
 ## Run frontend
